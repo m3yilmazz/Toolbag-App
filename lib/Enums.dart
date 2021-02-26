@@ -1,0 +1,1 @@
+enum isTaskCompleted { no, yes }
